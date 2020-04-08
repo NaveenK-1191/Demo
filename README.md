@@ -8,7 +8,7 @@
  * AddressPage.java
  * LandingPage.java
  * OrderConfirmationPage.java
- Whatever the objects we are going to work with and methods for that objects are built in these pages
+ +Whatever the objects we are going to work with and methods for that objects are built in these pages
  ## "CheckOutFlowTest" is our actual TestClass which has our test steps
  * CheckOutFlowTest.java
  Here,the Test is built in such a way that Test will be executed with two sets of Test data with DataProvider concept
